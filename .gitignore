@@ -1,0 +1,9 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore local SQLite database (created at runtime)
+finances.db
+
+# Ignore virtual environments
+venv/
